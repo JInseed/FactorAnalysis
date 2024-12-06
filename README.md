@@ -15,7 +15,7 @@
 <br>
 
 ### 역할
-> **자료조사, Data Processing, Modeling, ppt 및 논문 작성**
+> **자료조사, Data Preprocessing, Modeling, ppt 및 논문 작성**
 <br>
 
 ## 분석 주제
@@ -23,7 +23,7 @@
 <br>
 
 ## 분석 요약
-1. Data Processing(결측치 처리, 역코딩)
+1. Data Preprocessing(결측치 처리, 역코딩)
 2. Exploratory Factor Analysis에 적합한 데이터인지 확인(KMO, Bartlett 구형성 검정)
 3. 요인 회전 방식 및 요인 수 결정(Oblimin, PCFA)
 4. Principal Axis Factor Anlysis를 이용하여 청소년 행복에 영향을 미치는 다양한 요인을 도출 후 세부 지표를 새롭게 탐색(Oblimin, Cronbach’s α)
